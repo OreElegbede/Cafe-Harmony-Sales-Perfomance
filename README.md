@@ -1,4 +1,4 @@
-# Cafe Harmony Data Analysis :Buiding an Interactive Dashboard that will help the company's management make key decisions for growth
+# Cafe Harmony Data Analysis :Building an Interactive Dashboard that will help the company's management make key decisions for growth
 ## Table of Content
 
 - [Description](#description)
@@ -11,7 +11,7 @@
 
   
 ### **DESCRIPTION**
-The project offered an opportunity to gain hands-on experience in designing end to end data analytics solutions using Excel for a Cafe including data cleaning, data integration, visualization and actionable insight extraction.
+The project offered an opportunity to design end to end data analytics solutions using Excel for a Cafe including data cleaning, data integration, visualization and actionable insight extraction.
 
 <img width="1723" height="666" alt="Screenshot 2025-07-28 222244" src="https://github.com/user-attachments/assets/6dd4c5ad-d4ac-4e19-8e2a-f73e0806d180" />
 
